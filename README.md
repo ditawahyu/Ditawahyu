@@ -1,4 +1,7 @@
-### Hi there 👋
+### thank you for looking my code
+
+### if you have any question about my code you can contact me at:
+### ditawahyusabrina@gmail.com
 
 <!--
 **ditawahyu/Ditawahyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
